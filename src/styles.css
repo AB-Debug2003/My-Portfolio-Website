@@ -94,7 +94,7 @@ li::marker {
 }
 
 a {
-  color: black;
+  color: #FFFAFA;
   text-decoration: none;
 }
 
@@ -122,4 +122,8 @@ a:hover {
 img.socialIcon {
   height: 30px;
   width: 30px;
+}
+
+#home{
+  color: white;
 }
